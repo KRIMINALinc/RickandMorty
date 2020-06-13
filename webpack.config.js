@@ -38,7 +38,13 @@ plugins: [
             from: './src/styles/styles.css',
             to: ''
         }
-    ])
+    ]),
+    new CopyWebpackPlugin([
+        {
+            from: './src/images',
+            to: 'src/images/'
+        }
+    ]),
 ]
     
 
