@@ -2,7 +2,7 @@
 
 # Rick & Morty directory using The Rick & Morty API
 
-Single page aplication with Vanilla JS.
+Single page application with Vanilla JS.
 
 [api] - The Rick & marty API link
 
