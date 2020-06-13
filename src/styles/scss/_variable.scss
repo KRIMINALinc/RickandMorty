@@ -1,0 +1,19 @@
+:root {
+  --bg: #04010e;
+  --card-bg: #1b1530;
+  --toogle: linear-gradient(90deg, rgba(55, 143, 230, 1) 0%, rgba(62, 218, 130, 1) 50%);
+  --blue-text: #8b97c6;
+  --numbers: #FFF;
+  --title: #FFF;
+  --subtitle: #FFF;
+}
+
+[data-theme="light"] {
+  --bg: #f4f4f4;
+  --card-bg: #97ce4c;
+  --toogle: #63687e;
+  --blue-text: #63687e;
+  --numbers: #1e202a;
+  --title: #1e202a;
+  --subtitle: #63687e;
+}
